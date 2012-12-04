@@ -6,7 +6,7 @@ auto-scratch
 put on your .emacs
 
 ```elisp
-(require 'golden-ratio)
+(require 'auto-scratch)
 
-(golden-ratio-enable)
+(auto-scratch)
 ```
